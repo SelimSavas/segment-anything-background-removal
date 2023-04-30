@@ -7,7 +7,7 @@ I used Segment-Anything to remove background from photos. Doing this process is 
 ### Foreground Detection and Segmentation
 * **Source Image :** Image entered by the user
 * **Bounding Box Image :** User-entered bounding box
-* **Segmented Image :** segmentation of the foreground image to be exempted from inference by segment anything
+* **Segmented Image :** Segmentation of the foreground image to be exempted from inference by segment anything
 
 ![image](https://user-images.githubusercontent.com/48186387/232865147-2fc7e7ed-aca5-497e-9a36-28dfaf057cc1.png)
 
